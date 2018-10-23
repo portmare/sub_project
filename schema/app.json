@@ -1,3 +1,4 @@
 {
-"root": "this is submodule"
+"root": "this is submodule",
+"subs": [{"name": "doc"}]
 }
