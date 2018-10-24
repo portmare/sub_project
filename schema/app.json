@@ -1,4 +1,5 @@
 {
 "root": "this is submodule",
-"subs": [{"name": "doc"}]
+"subs": [{"name": "doc"}],
+  "new_changes": 1
 }
